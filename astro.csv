@@ -1,82 +1,82 @@
-﻿year,home_team,month,day,attend,day_of_week,opponent,temp,skies,day1_night0,APR,MAY,JUN,JUL,AUG,SEP,Sunday,Tuesday,Wednesday,Thursday,Friday,Saturday,cap,shirt,fireworks,bobblehead,anypromo
-2012,Houston Astros,APR,6,43464,Friday,Colorado Rockies,79,Cloudy,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
-2012,Houston Astros,APR,7,23962,Saturday,Colorado Rockies,80,Clear,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-2012,Houston Astros,APR,8,14195,Sunday,Colorado Rockies,72,Dome,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,APR,9,17095,Monday,Atlanta Braves,79,Cloudy,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,APR,10,22036,Tuesday,Atlanta Braves,78,Cloudy,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
-2012,Houston Astros,APR,11,18225,Wednesday,Atlanta Braves,81,Cloudy,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,APR,20,30270,Friday,Los Angeles Dodgers,73,Dome,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
-2012,Houston Astros,APR,21,25562,Saturday,Los Angeles Dodgers,73,Clear,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
-2012,Houston Astros,APR,22,23948,Sunday,Los Angeles Dodgers,75,Clear,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,APR,30,17536,Monday,New York Mets,80,Cloudy,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,1,17958,Tuesday,New York Mets,80,Cloudy,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,2,19442,Wednesday,New York Mets,72,Dome,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,4,27201,Friday,St. Louis Cardinals,84,Cloudy,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
-2012,Houston Astros,MAY,5,23633,Saturday,St. Louis Cardinals,87,Cloudy,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
-2012,Houston Astros,MAY,6,22288,Sunday,St. Louis Cardinals,72,Dome,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,7,16531,Monday,Miami Marlins,72,Dome,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,8,14801,Tuesday,Miami Marlins,72,Dome,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,9,16072,Wednesday,Miami Marlins,81,Cloudy,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,16,15453,Wednesday,Milwaukee Brewers,73,Dome,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,17,15173,Thursday,Milwaukee Brewers,73,Dome,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,18,34715,Friday,Texas Rangers,73,Dome,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1
-2012,Houston Astros,MAY,19,42673,Saturday,Texas Rangers,73,Dome,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
-2012,Houston Astros,MAY,20,35873,Sunday,Texas Rangers,73,Dome,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,21,16895,Monday,Chicago Cubs,73,Dome,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,22,20091,Tuesday,Chicago Cubs,73,Dome,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,MAY,23,18732,Wednesday,Chicago Cubs,73,Dome,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
-2012,Houston Astros,JUN,1,21464,Friday,Cincinnati Reds,73,Dome,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1
-2012,Houston Astros,JUN,2,22991,Saturday,Cincinnati Reds,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-2012,Houston Astros,JUN,3,19914,Sunday,Cincinnati Reds,73,Dome,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,5,18911,Tuesday,St. Louis Cardinals,73,Dome,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,6,18517,Wednesday,St. Louis Cardinals,73,Dome,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,7,22265,Thursday,St. Louis Cardinals,73,Dome,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,18,15436,Monday,Kansas City Royals,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,19,18098,Tuesday,Kansas City Royals,73,Dome,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,20,30687,Wednesday,Kansas City Royals,73,Dome,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1
-2012,Houston Astros,JUN,22,26932,Friday,Cleveland Indians,73,Dome,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1
-2012,Houston Astros,JUN,23,34241,Saturday,Cleveland Indians,73,Dome,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-2012,Houston Astros,JUN,24,21191,Sunday,Cleveland Indians,73,Dome,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,25,14483,Monday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,26,15416,Tuesday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,27,15012,Wednesday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUN,28,19415,Thursday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-2012,Houston Astros,JUL,6,23430,Friday,Milwaukee Brewers,73,Dome,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1
-2012,Houston Astros,JUL,7,23027,Saturday,Milwaukee Brewers,73,Dome,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
-2012,Houston Astros,JUL,8,16966,Sunday,Milwaukee Brewers,73,Dome,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUL,23,15538,Monday,Cincinnati Reds,73,Dome,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUL,24,15908,Tuesday,Cincinnati Reds,73,Dome,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,JUL,25,16077,Wednesday,Cincinnati Reds,73,Dome,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1
-2012,Houston Astros,JUL,26,19926,Thursday,Pittsburgh Pirates,73,Dome,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
-2012,Houston Astros,JUL,27,24685,Friday,Pittsburgh Pirates,73,Dome,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1
-2012,Houston Astros,JUL,28,34146,Saturday,Pittsburgh Pirates,73,Dome,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
-2012,Houston Astros,JUL,29,20453,Sunday,Pittsburgh Pirates,73,Dome,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,6,13843,Monday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,7,14273,Tuesday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,8,16038,Wednesday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,9,14417,Thursday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,10,21025,Friday,Milwaukee Brewers,73,Dome,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1
-2012,Houston Astros,AUG,11,17942,Saturday,Milwaukee Brewers,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2012,Houston Astros,AUG,12,19235,Sunday,Milwaukee Brewers,73,Dome,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,17,19223,Friday,Arizona Diamondbacks,73,Dome,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1
-2012,Houston Astros,AUG,18,20838,Saturday,Arizona Diamondbacks,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1
-2012,Houston Astros,AUG,19,14923,Sunday,Arizona Diamondbacks,73,Dome,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,28,13516,Tuesday,San Francisco Giants,73,Dome,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,29,13207,Wednesday,San Francisco Giants,73,Dome,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,30,12835,Thursday,San Francisco Giants,73,Dome,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
-2012,Houston Astros,AUG,31,15287,Friday,Cincinnati Reds,73,Dome,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1
-2012,Houston Astros,SEP,1,18316,Saturday,Cincinnati Reds,73,Dome,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-2012,Houston Astros,SEP,2,17291,Sunday,Cincinnati Reds,73,Dome,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,10,13121,Monday,Chicago Cubs,83,Clear,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,11,14205,Tuesday,Chicago Cubs,73,Dome,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,12,13101,Wednesday,Chicago Cubs,73,Dome,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,13,13028,Thursday,Philadelphia Phillies,73,Dome,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,14,17535,Friday,Philadelphia Phillies,73,Dome,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1
-2012,Houston Astros,SEP,15,20419,Saturday,Philadelphia Phillies,73,Dome,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1
-2012,Houston Astros,SEP,16,17438,Sunday,Philadelphia Phillies,73,Dome,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,21,17093,Friday,Pittsburgh Pirates,84,Clear,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,1
-2012,Houston Astros,SEP,22,17185,Saturday,Pittsburgh Pirates,73,Dome,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1
-2012,Houston Astros,SEP,23,15207,Sunday,Pittsburgh Pirates,73,Dome,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1
-2012,Houston Astros,SEP,24,12584,Monday,St. Louis Cardinals,73,Dome,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,25,16943,Tuesday,St. Louis Cardinals,73,Dome,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-2012,Houston Astros,SEP,26,18712,Wednesday,St. Louis Cardinals,73,Dome,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+﻿year,home_team,month,day,attend,day_of_week,opponent,temp,skies,day1_night0,APR,MAY,JUN,JUL,AUG,SEP,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,cap,shirt,fireworks,bobblehead,anypromo
+2012,Houston Astros,APR,6,43464,Friday,Colorado Rockies,79,Cloudy,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+2012,Houston Astros,APR,7,23962,Saturday,Colorado Rockies,80,Clear,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2012,Houston Astros,APR,8,14195,Sunday,Colorado Rockies,72,Dome,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,APR,9,17095,Monday,Atlanta Braves,79,Cloudy,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,APR,10,22036,Tuesday,Atlanta Braves,78,Cloudy,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+2012,Houston Astros,APR,11,18225,Wednesday,Atlanta Braves,81,Cloudy,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,APR,20,30270,Friday,Los Angeles Dodgers,73,Dome,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1
+2012,Houston Astros,APR,21,25562,Saturday,Los Angeles Dodgers,73,Clear,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+2012,Houston Astros,APR,22,23948,Sunday,Los Angeles Dodgers,75,Clear,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,APR,30,17536,Monday,New York Mets,80,Cloudy,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,1,17958,Tuesday,New York Mets,80,Cloudy,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,2,19442,Wednesday,New York Mets,72,Dome,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,4,27201,Friday,St. Louis Cardinals,84,Cloudy,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+2012,Houston Astros,MAY,5,23633,Saturday,St. Louis Cardinals,87,Cloudy,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1
+2012,Houston Astros,MAY,6,22288,Sunday,St. Louis Cardinals,72,Dome,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,7,16531,Monday,Miami Marlins,72,Dome,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,8,14801,Tuesday,Miami Marlins,72,Dome,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,9,16072,Wednesday,Miami Marlins,81,Cloudy,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,16,15453,Wednesday,Milwaukee Brewers,73,Dome,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,17,15173,Thursday,Milwaukee Brewers,73,Dome,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,18,34715,Friday,Texas Rangers,73,Dome,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1
+2012,Houston Astros,MAY,19,42673,Saturday,Texas Rangers,73,Dome,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+2012,Houston Astros,MAY,20,35873,Sunday,Texas Rangers,73,Dome,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,21,16895,Monday,Chicago Cubs,73,Dome,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,22,20091,Tuesday,Chicago Cubs,73,Dome,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,MAY,23,18732,Wednesday,Chicago Cubs,73,Dome,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+2012,Houston Astros,JUN,1,21464,Friday,Cincinnati Reds,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1
+2012,Houston Astros,JUN,2,22991,Saturday,Cincinnati Reds,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2012,Houston Astros,JUN,3,19914,Sunday,Cincinnati Reds,73,Dome,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,5,18911,Tuesday,St. Louis Cardinals,73,Dome,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,6,18517,Wednesday,St. Louis Cardinals,73,Dome,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,7,22265,Thursday,St. Louis Cardinals,73,Dome,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,18,15436,Monday,Kansas City Royals,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,19,18098,Tuesday,Kansas City Royals,73,Dome,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,20,30687,Wednesday,Kansas City Royals,73,Dome,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+2012,Houston Astros,JUN,22,26932,Friday,Cleveland Indians,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1
+2012,Houston Astros,JUN,23,34241,Saturday,Cleveland Indians,73,Dome,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2012,Houston Astros,JUN,24,21191,Sunday,Cleveland Indians,73,Dome,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,25,14483,Monday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,26,15416,Tuesday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,27,15012,Wednesday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUN,28,19415,Thursday,San Diego Padres,73,Dome,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2012,Houston Astros,JUL,6,23430,Friday,Milwaukee Brewers,73,Dome,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1
+2012,Houston Astros,JUL,7,23027,Saturday,Milwaukee Brewers,73,Dome,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+2012,Houston Astros,JUL,8,16966,Sunday,Milwaukee Brewers,73,Dome,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUL,23,15538,Monday,Cincinnati Reds,73,Dome,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUL,24,15908,Tuesday,Cincinnati Reds,73,Dome,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,JUL,25,16077,Wednesday,Cincinnati Reds,73,Dome,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+2012,Houston Astros,JUL,26,19926,Thursday,Pittsburgh Pirates,73,Dome,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2012,Houston Astros,JUL,27,24685,Friday,Pittsburgh Pirates,73,Dome,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+2012,Houston Astros,JUL,28,34146,Saturday,Pittsburgh Pirates,73,Dome,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1
+2012,Houston Astros,JUL,29,20453,Sunday,Pittsburgh Pirates,73,Dome,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,6,13843,Monday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,7,14273,Tuesday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,8,16038,Wednesday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,9,14417,Thursday,Washington Nationals,73,Dome,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,10,21025,Friday,Milwaukee Brewers,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1
+2012,Houston Astros,AUG,11,17942,Saturday,Milwaukee Brewers,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2012,Houston Astros,AUG,12,19235,Sunday,Milwaukee Brewers,73,Dome,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,17,19223,Friday,Arizona Diamondbacks,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1
+2012,Houston Astros,AUG,18,20838,Saturday,Arizona Diamondbacks,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1
+2012,Houston Astros,AUG,19,14923,Sunday,Arizona Diamondbacks,73,Dome,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,28,13516,Tuesday,San Francisco Giants,73,Dome,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,29,13207,Wednesday,San Francisco Giants,73,Dome,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,30,12835,Thursday,San Francisco Giants,73,Dome,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+2012,Houston Astros,AUG,31,15287,Friday,Cincinnati Reds,73,Dome,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1
+2012,Houston Astros,SEP,1,18316,Saturday,Cincinnati Reds,73,Dome,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+2012,Houston Astros,SEP,2,17291,Sunday,Cincinnati Reds,73,Dome,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,10,13121,Monday,Chicago Cubs,83,Clear,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,11,14205,Tuesday,Chicago Cubs,73,Dome,0,0,0,0,0,0,1,0,,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,12,13101,Wednesday,Chicago Cubs,73,Dome,0,0,0,0,0,0,1,0,,0,1,0,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,13,13028,Thursday,Philadelphia Phillies,73,Dome,0,0,0,0,0,0,1,0,,0,0,1,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,14,17535,Friday,Philadelphia Phillies,73,Dome,0,0,0,0,0,0,1,0,,0,0,0,1,0,0,0,1,0,1
+2012,Houston Astros,SEP,15,20419,Saturday,Philadelphia Phillies,73,Dome,0,0,0,0,0,0,1,0,,0,0,0,0,1,0,1,0,0,1
+2012,Houston Astros,SEP,16,17438,Sunday,Philadelphia Phillies,73,Dome,1,0,0,0,0,0,1,1,,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,21,17093,Friday,Pittsburgh Pirates,84,Clear,0,0,0,0,0,0,1,0,,0,0,0,1,0,0,1,1,0,1
+2012,Houston Astros,SEP,22,17185,Saturday,Pittsburgh Pirates,73,Dome,0,0,0,0,0,0,1,0,,0,0,0,0,1,0,1,0,0,1
+2012,Houston Astros,SEP,23,15207,Sunday,Pittsburgh Pirates,73,Dome,1,0,0,0,0,0,1,1,,0,0,0,0,0,0,1,0,0,1
+2012,Houston Astros,SEP,24,12584,Monday,St. Louis Cardinals,73,Dome,0,0,0,0,0,0,1,0,,0,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,25,16943,Tuesday,St. Louis Cardinals,73,Dome,0,0,0,0,0,0,1,0,,1,0,0,0,0,0,0,0,0,0
+2012,Houston Astros,SEP,26,18712,Wednesday,St. Louis Cardinals,73,Dome,0,0,0,0,0,0,1,0,,0,1,0,0,0,0,0,0,0,0
